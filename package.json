@@ -1,0 +1,18 @@
+{
+  "name": "bs-npm-main",
+  "version": "1.0.0",
+  "description": "\"lesson-1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "bootstrap"
+  ],
+  "author": "Abduhamid",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
